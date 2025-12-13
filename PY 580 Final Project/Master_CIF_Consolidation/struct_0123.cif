@@ -1,0 +1,29 @@
+data_image123
+_chemical_formula_structural       SiOSiCa
+_chemical_formula_sum              "Si2 O1 Ca1"
+_cell_length_a       3.7151823568950864
+_cell_length_b       3.7173946948584984
+_cell_length_c       6.422978401184082
+_cell_angle_alpha    73.06193109099013
+_cell_angle_beta     73.12524682079989
+_cell_angle_gamma    60.09077028654934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.006613969802856457  0.18603591620922086  0.005273675546050072  1.0000
+  O   O1        1.0  0.1985031962394715  0.375868409872055  0.43737536668777466  1.0000
+  Si  Si2       1.0  0.29023897647857666  0.4688242375850677  0.15728576481342316  1.0000
+  Ca  Ca1       1.0  0.47617739439010615  0.6544112563133239  0.5980163812637329  1.0000

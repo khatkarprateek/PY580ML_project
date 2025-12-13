@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OTiOSiOSiO2
+_chemical_formula_sum              "O5 Ti1 Si2"
+_cell_length_a       5.530028642675254
+_cell_length_b       5.50405349957358
+_cell_length_c       7.212735176086425
+_cell_angle_alpha    77.6716143590516
+_cell_angle_beta     66.92720667573523
+_cell_angle_gamma    59.52634189127803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.060880923619573264  0.273855528236561  0.45429840875104416  1.0000
+  Ti  Ti1       1.0  0.3020056943523383  0.9298010623003962  0.34010738974931004  1.0000
+  O   O2        1.0  0.6644751830892859  0.6574925425035153  0.7457810687907903  1.0000
+  Si  Si1       1.0  0.3110212534246074  0.8365804795550625  0.8905918921127352  1.0000
+  O   O3        1.0  0.3493477551506098  0.9375700771004462  0.07462251794662872  1.0000
+  Si  Si2       1.0  0.8774842920739446  0.6072278311238126  0.5081403772416004  1.0000
+  O   O4        1.0  0.6657061123900113  0.7817639487154131  0.3683605703412748  1.0000
+  O   O5        1.0  0.11869278567384277  0.7157167486259872  0.470459183091297  1.0000

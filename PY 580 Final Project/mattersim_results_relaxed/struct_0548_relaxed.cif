@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ti3OTiOSi2
+_chemical_formula_sum              "Ti4 O2 Si2"
+_cell_length_a       3.63825127521782
+_cell_length_b       3.6374035086415097
+_cell_length_c       8.124638557434082
+_cell_angle_alpha    90.04193303515764
+_cell_angle_beta     90.10135568124534
+_cell_angle_gamma    90.08664344425385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.525067636352027  0.9236707433684849  0.5815176885763467  1.0000
+  Ti  Ti2       1.0  0.5252769561852694  0.42388079025534087  0.20808988629591668  1.0000
+  Ti  Ti3       1.0  0.02533207758182608  0.9238723253574914  0.20800509683970986  1.0000
+  O   O1        1.0  0.5252646930123721  0.42372026619780573  0.7079067358852937  1.0000
+  Ti  Ti4       1.0  0.025391150490924448  0.4238442861173553  0.8341144973688867  1.0000
+  O   O2        1.0  0.025157744630223963  0.9237706118811794  0.7079736314297327  1.0000
+  Si  Si1       1.0  0.5249080265864636  0.9237297583431625  0.9876586466004316  1.0000
+  Si  Si2       1.0  0.025659843786562244  0.42399203597319596  0.4284970870761033  1.0000

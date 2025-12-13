@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OCaSiO
+_chemical_formula_sum              "O2 Ca1 Si1"
+_cell_length_a       3.5213464341908765
+_cell_length_b       3.52237072470986
+_cell_length_c       6.0179243087768555
+_cell_angle_alpha    73.13311508872695
+_cell_angle_beta     73.13648961463409
+_cell_angle_gamma    60.205694476996044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9161809682846067  0.8582478165626526  0.36441242694854736  1.0000
+  Ca  Ca1       1.0  0.5127462148666382  0.4539817869663239  0.5767494440078735  1.0000
+  Si  Si1       1.0  0.012763810344040331  0.9535087347030641  0.07779917865991592  1.0000
+  O   O2        1.0  0.10753093659877776  0.04942791536450387  0.7893680334091187  1.0000

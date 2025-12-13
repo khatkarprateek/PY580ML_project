@@ -1,0 +1,31 @@
+data_image514
+_chemical_formula_structural       Ca2Si2O2
+_chemical_formula_sum              "Ca2 Si2 O2"
+_cell_length_a       3.479941568226341
+_cell_length_b       3.4831007813412382
+_cell_length_c       10.482933044433594
+_cell_angle_alpha    80.4376279515054
+_cell_angle_beta     80.43790174142653
+_cell_angle_gamma    60.09391726282101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2756380140781402  0.9469858407974243  0.006164082325994968  1.0000
+  Ca  Ca2       1.0  0.7602535486221313  0.4308450520038605  0.5536210536956787  1.0000
+  Si  Si1       1.0  0.01750330254435537  0.6900164484977722  0.779218852519989  1.0000
+  Si  Si2       1.0  0.5181608200073242  0.18837110698223117  0.28042954206466675  1.0000
+  O   O1        1.0  0.46382287144660955  0.13431446254253387  0.44263920187950134  1.0000
+  O   O2        1.0  0.5717445015907288  0.24338816106319427  0.11919368803501129  1.0000

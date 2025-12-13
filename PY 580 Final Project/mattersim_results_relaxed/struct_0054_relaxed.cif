@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaSiO3
+_chemical_formula_sum              "Ca1 Si1 O3"
+_cell_length_a       3.606631082996132
+_cell_length_b       3.6107913934814455
+_cell_length_c       3.6098184585571294
+_cell_angle_alpha    89.98155416269857
+_cell_angle_beta     89.991212051193
+_cell_angle_gamma    89.99966782519033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9571779815425248  0.25354615991626017  0.2416024786797086  1.0000
+  Si  Si1       1.0  0.45705995767049445  0.7533762279165085  0.7414930639999026  1.0000
+  O   O1        1.0  0.4568827475972708  0.2535803817535444  0.741624696071855  1.0000
+  O   O2        1.0  0.9569046178186865  0.7534814983697221  0.7417207632470472  1.0000
+  O   O3        1.0  0.45685745010889095  0.7537355958315828  0.24173736875475516  1.0000

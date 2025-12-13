@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OCaO4SiTi
+_chemical_formula_sum              "O5 Ca1 Si1 Ti1"
+_cell_length_a       5.5478269296292275
+_cell_length_b       5.321459866195302
+_cell_length_c       5.892434597015381
+_cell_angle_alpha    103.76979935355641
+_cell_angle_beta     101.91616209156253
+_cell_angle_gamma    116.8152754223122
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8894910501083728  0.3089991874995064  0.49269628582212155  1.0000
+  Ca  Ca1       1.0  0.019160639454369743  0.008712084041463841  0.20727146704448007  1.0000
+  O   O2        1.0  0.26252290279372026  0.8524775280868832  0.4878860057593224  1.0000
+  O   O3        1.0  0.11335704882191684  0.8178387854344873  0.8994113793319044  1.0000
+  O   O4        1.0  0.7950577804286644  0.1276166104446863  0.9257609394962233  1.0000
+  O   O5        1.0  0.7453234515266118  0.7186268729539248  0.4528338290564941  1.0000
+  Si  Si1       1.0  0.010457255865499558  0.6786487671756471  0.6040613568865882  1.0000
+  Ti  Ti1       1.0  0.6663930589272989  0.012110224597470806  0.6101755902812518  1.0000

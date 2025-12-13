@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaTiSiO
+_chemical_formula_sum              "Ca1 Ti1 Si1 O1"
+_cell_length_a       3.1894871033060226
+_cell_length_b       3.1916868556754925
+_cell_length_c       7.148218631744385
+_cell_angle_alpha    77.10681809122661
+_cell_angle_beta     77.13777327293434
+_cell_angle_gamma    60.07588134139405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.1725354045629501  0.9596929550170898  0.34728208184242254  1.0000
+  Ti  Ti1       1.0  0.6365992426872255  0.4243883490562439  0.9544674754142762  1.0000
+  Si  Si1       1.0  0.3937554657459259  0.18126705288887024  0.6827928423881532  1.0000
+  O   O1        1.0  0.9118679165840149  0.6983916759490967  0.13013894855976105  1.0000

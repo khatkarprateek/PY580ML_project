@@ -1,0 +1,33 @@
+data_image469
+_chemical_formula_structural       CaTiOTiCaOSi2
+_chemical_formula_sum              "Ca2 Ti2 O2 Si2"
+_cell_length_a       4.0599446685780975
+_cell_length_b       4.0552840843536275
+_cell_length_c       8.104589462280273
+_cell_angle_alpha    89.97048925747916
+_cell_angle_beta     90.00793235416556
+_cell_angle_gamma    89.99199752339159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6326069235801697  0.07153412699699402  0.8095157742500305  1.0000
+  Ti  Ti1       1.0  0.6327540278434753  0.5710717439651489  0.15807363390922546  1.0000
+  O   O1        1.0  0.6328343749046326  0.07093364000320433  0.09497182071208954  1.0000
+  Ti  Ti2       1.0  0.13272882997989655  0.07133814692497253  0.15828034281730652  1.0000
+  Ca  Ca2       1.0  0.13250893354415894  0.5714150071144104  0.5070733428001404  1.0000
+  O   O2        1.0  0.1327798217535019  0.5710412263870239  0.22148746252059937  1.0000
+  Si  Si1       1.0  0.13236328959465027  0.571178674697876  0.9072473645210266  1.0000
+  Si  Si2       1.0  0.6323980689048767  0.07137598842382431  0.4090360105037689  1.0000

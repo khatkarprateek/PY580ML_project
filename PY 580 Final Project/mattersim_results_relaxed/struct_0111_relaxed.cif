@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaTiCaTiO4
+_chemical_formula_sum              "Ca2 Ti2 O4"
+_cell_length_a       3.257251573774364
+_cell_length_b       3.995681554560333
+_cell_length_c       7.643554210662843
+_cell_angle_alpha    89.9551828018583
+_cell_angle_beta     90.02504198016895
+_cell_angle_gamma    89.83748498551851
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.44145611386394173  0.5081447681335609  0.9453977450369071  1.0000
+  Ti  Ti1       1.0  0.9414473910313457  0.00796800158856509  0.20250914972287473  1.0000
+  Ca  Ca2       1.0  0.9417200603443442  0.008239594515292263  0.6376166753354598  1.0000
+  Ti  Ti2       1.0  0.4415497674517779  0.5083860373304612  0.38050583716708625  1.0000
+  O   O1        1.0  0.9412099401423573  0.008185701373807166  0.9383202427547676  1.0000
+  O   O2        1.0  0.9414741633847028  0.508020035538563  0.18278360438341743  1.0000
+  O   O3        1.0  0.441647481084507  0.5081825929852134  0.6446960129881312  1.0000
+  O   O4        1.0  0.44163751428961445  0.008362112686478537  0.40023447815270974  1.0000

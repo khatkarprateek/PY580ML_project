@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OTi2SiO
+_chemical_formula_sum              "O2 Ti2 Si1"
+_cell_length_a       3.358591129696312
+_cell_length_b       3.3571271171668022
+_cell_length_c       6.018126964569092
+_cell_angle_alpha    106.1930351234922
+_cell_angle_beta     106.11533469173246
+_cell_angle_gamma    90.04846274206805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8912108540534972  0.31958746910095215  0.5256840586662292  1.0000
+  Ti  Ti1       1.0  0.787986159324646  0.715869128704071  0.31885284185409546  1.0000
+  Ti  Ti2       1.0  0.49456128478050226  0.42223554849624634  0.7330653071403503  1.0000
+  Si  Si1       1.0  0.14184904098510742  0.06913286447525024  0.025716742500662804  1.0000
+  O   O2        1.0  0.3910883963108063  0.818400502204895  0.5256524085998535  1.0000
